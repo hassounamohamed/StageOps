@@ -46,10 +46,6 @@ It provides two role-based experiences:
 3. Open: http://localhost/project/db_setup.php
 4. Open: http://localhost/project/login.php
 
-## Seed Accounts
-
-- Admin: admin@stageops.local / admin123
-- User: user@stageops.local / user123
 
 ## Security and Quality Notes
 
