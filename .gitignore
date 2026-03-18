@@ -1,0 +1,40 @@
+# PHP
+*.php.bak
+.env
+.env.local
+*.phar
+
+# Database
+*.sql.bak
+uploads/*
+!uploads/.gitkeep
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Dependencies
+vendor/
+node_modules/
+composer.lock
+
+# Logs
+*.log
+logs/
+
+# Cache
+cache/
+temp/
+tmp/
+.cache/
+
+# PHP Sessions
+sessions/
